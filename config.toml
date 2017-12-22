@@ -1,4 +1,4 @@
-baseURL = "http://norgaard.cloud/"
+baseURL = "https://norgaard.cloud/"
 languageCode = "en-us"
 title = "norgaard.cloud"
 theme = "gohugo-theme-ananke"
