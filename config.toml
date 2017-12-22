@@ -1,5 +1,5 @@
 baseURL = "http://norgaard.cloud/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "gohugo-theme-ananke"
+title = "norgaard.cloud"
+theme = "themes/gohugo-theme-ananke"
 
