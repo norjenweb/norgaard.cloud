@@ -1,5 +1,5 @@
-baseURL = "http://www.norgaard.cloud"
-title = "Norgaard in the Cloud"
+baseURL = "http://www.example.com"
+title = "Minimo"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -20,26 +20,26 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "and beyound - SharePoint & Office 365"
+description = "Minimalist theme for Hugo"
 title404 = "Nothing's here!"
 
 [params.assets]
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
-gopher = "https://gopherize.me/gopher/e42522672c2ff94920918ffd3856621c954a3597" # used in 404 template ( Generator: https://gopherize.me )
+gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "Jens Norgaard"
-startYear = "2018"
+holder = "MunifTanjim"
+startYear = "2017"
 suffix = ""
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
-dateFormat = "2 Jan 2006"
-listDateFormat = "2 Jan 2006"
-hideEntryNavigation = ["pages"] # boolean / array of sections
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+hideEntryNavigation = ["page"] # boolean / array of sections
 recentPostsLength = 4
 hideSocialMenu = false
 showReadingTime = true
@@ -58,14 +58,14 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = ""
+codepen = "MunifTanjim"
 email = "contact@example.com"
-facebook = ""
-github = "norjen"
-instagram = ""
-linkedin = ""
-twitter = "sharepointdk"
-telegram = ""
+facebook = "MunifTanjim"
+github = "MunifTanjim"
+instagram = "MunifTanjim"
+linkedin = "muniftanjim"
+twitter = "MunifTanjim"
+telegram = "MunifTanjim"
 
 [params.social.config]
 platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin","telegram"]
@@ -78,11 +78,11 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-#[[menu.main]]
-#name = "Repo"
-#weight = -10
-#identifier = "repository"
-#url = "https://github.com/MunifTanjim/minimo"
+[[menu.main]]
+name = "Repo"
+weight = -10
+identifier = "repository"
+url = "https://github.com/MunifTanjim/minimo"
 
 [blackfriday]
 hrefTargetBlank = true
