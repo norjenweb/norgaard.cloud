@@ -1,6 +1,6 @@
 ---
-title: About
-description: What does Minimo even means?!
+title: Contact
+description: How to contact me?
 #menu: main
 weight: -210
 ---

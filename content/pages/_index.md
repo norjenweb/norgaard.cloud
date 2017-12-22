@@ -1,7 +1,7 @@
 ---
-title: Pages
-linkTitle: Pages
+title: About
+linkTitle: About
 menu: main
 weight: -200
-slug: pages
+slug: pages/About
 ---
