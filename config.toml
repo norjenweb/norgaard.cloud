@@ -20,7 +20,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "and beyound - SharePoint & Office 365"
+description = "and beyond - SharePoint & Office 365"
 title404 = "Nothing's here!"
 
 [params.assets]
