@@ -4,12 +4,7 @@ description: How to contact me?
 #menu: main
 weight: -210
 ---
-
-Mínimo is a Spanish word that roughly translate to Minimal.
-
-Minimo is a minimalist theme for Hugo.
-
-Minimo keeps the focus on your content and lets it shine!
+Please contact us by using the form below, or connect with us on Twitter or LinkedIn
 
 <form name="contact" netlify>
   <p>
