@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: How to contact me?
-#menu: main
+menu: main
 weight: -210
 ---
 Please contact us by using the form below, or connect with us on Twitter or LinkedIn

@@ -3,10 +3,9 @@ title: About
 linkTitle: About
 menu: main
 weight: -200
-slug: pages/about
 ---
 
 This blog is about
-written by: Jns Nrgrd
+written by: Jens Norgaard
 
 Contact info in the menu below

@@ -1,5 +1,5 @@
 baseURL = "http://www.norgaard.cloud"
-title = "Norgaard in the Cloud"
+title = "Norgaard exploring the Cloud"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -20,7 +20,8 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "and beyond - SharePoint & Office 365"
+#description = "and beyond - SharePoint & Office 365"
+description = "Jens Norgaard"
 title404 = "Nothing's here!"
 
 [params.assets]

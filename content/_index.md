@@ -4,9 +4,12 @@ menu: main
 weight: -270
 ---
 
-Where are you?
+This is my first atempt of writing about the joy and pitfalls experienced in my daily work with Microsoft Azure and cloud related technologies.
 
-> Minimalism is not a lack of something. It’s simply the perfect amount of something.
-> — Nicholas Burroughs
+This blog wil focus on:
 
-Here comes the cloud
+> - Microsoft Azure IaaS
+> - PowerShell
+> - SharePoint Server
+> - Office 365
+> - Elasticsearch and ELK stack
