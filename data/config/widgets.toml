@@ -12,7 +12,7 @@ excludeTypes = ["page"]               # default: ["page"]
 
 # Social Menu Widget config
 [social_menu]
-title = "Also check my other ressources: "                            # default: ""
+title = "Follow me: "                            # default: ""
 platforms = ["github","twitter","linkedin"]
 
 # Taxonomy Cloud Widget config
