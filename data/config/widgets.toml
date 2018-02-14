@@ -1,0 +1,22 @@
+# About Widget config
+[about]
+title = "Norgaard Cloud"                            # default: .Site.Title
+description = ""                      # default: .Site.Params.info.description
+logo = "/images/logo.png"             # default: "/images/logo.png"
+
+# Recent Posts Widget config
+[recent_posts]
+title = ""                            # default: "Recent Posts"
+length = 4                            # default: 5
+excludeTypes = ["page"]               # default: ["page"]
+
+# Social Menu Widget config
+[social_menu]
+title = "Also check my other ressources: "                            # default: ""
+platforms = ["github","twitter","linkedin"]
+
+# Taxonomy Cloud Widget config
+[taxonomy_cloud]
+title = ""                            # default: Plural Name for `taxonomyCloud.taxonomy`
+taxonomy = "tags"                     # default: "tags"
+shuffle = true                        # default: true

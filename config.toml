@@ -50,8 +50,12 @@ noTermCloudShuffle = false
 enable = true
 sticky = false
 
+[params.widgets]
+homepage = ["about","recent_posts"]
+sidebar = ["about","taxonomy_cloud","Social Menu"]
+
 [params.opengraph.facebook]
-admins = [jnorgaard] # array of Facebook IDs
+admins = ["jnorgaard"] # array of Facebook IDs
 appID = ""
 pageID = ""
 
