@@ -1,7 +1,7 @@
-baseURL = "http://www.norgaard.cloud"
-title = "Norgaard exploring the Cloud"
+baseURL = "https://www.norgaard.cloud"
+title = "Exploring the Cloud with"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
+copyright = "Jens Norgaard"
 
 theme = "minimo"
 
@@ -47,12 +47,12 @@ showReadingTime = true
 noTermCloudShuffle = false
 
 [params.opengraph.facebook]
-admins = [] # array of Facebook IDs
+admins = [jnorgaard] # array of Facebook IDs
 appID = ""
 pageID = ""
 
 [params.opengraph.twitter]
-page = "" # Twitter page username
+page = "norgaardcloud" # Twitter page username
 
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
@@ -62,10 +62,10 @@ titleSeparator = "•"
 codepen = ""
 email = "contact@example.com"
 facebook = ""
-github = "norjen"
+github = "norgaardcloud"
 instagram = ""
 linkedin = "jnorgaard"
-twitter = "sharepointdk"
+twitter = "norgaardcloud"
 telegram = ""
 
 [params.social.config]
