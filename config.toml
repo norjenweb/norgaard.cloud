@@ -51,8 +51,8 @@ enable = true
 sticky = false
 
 [params.widgets]
-homepage = ["about","recent_posts"]
-sidebar = ["about","taxonomy_cloud","Social Menu"]
+homepage = ["recent_posts"]
+sidebar = ["about","taxonomy_cloud","social_menu"]
 
 [params.opengraph.facebook]
 admins = ["jnorgaard"] # array of Facebook IDs
