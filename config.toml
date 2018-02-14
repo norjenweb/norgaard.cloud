@@ -46,6 +46,10 @@ hideSocialMenu = false
 showReadingTime = true
 noTermCloudShuffle = false
 
+[params.sidebar]
+enable = true
+sticky = false
+
 [params.opengraph.facebook]
 admins = [jnorgaard] # array of Facebook IDs
 appID = ""
