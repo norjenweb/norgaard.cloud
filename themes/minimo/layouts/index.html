@@ -1,17 +1,20 @@
 {{ partial "header" . }}
 
-<main id='main' class='main'>
-  {{ if .Content }}
-  <article class='entry'>
-    {{ partial "entry/content" . }}
-  </article>
-  {{ end }}
+{{ if .Content }}
+<div class='entry'>
+  {{ partial "entry/cover" . }}
+  {{ partial "entry/content" . }}
+</div>
+{{ end }}
 
-  <div class='home-sections-container'>
-    <div class='home-sections'>
-      {{ partial "home/recent_posts" . }}
-    </div>
+{{ if gt ( len .Site.Params.widgets.homepage ) 0 }}
+<div class='home-widgets'>
+  <div class='container sep-before'>
+    {{- range .Site.Params.widgets.homepage -}}
+      {{- partial ( print "widgets/" . ) $ -}}
+    {{- end -}}
   </div>
-</main>
+</div>
+{{ end }}
 
 {{ partial "footer" . }}
