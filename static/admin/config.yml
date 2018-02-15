@@ -17,7 +17,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Authors", name: "authors", widget: "string", default: "norjen" }
+      - {label: "Authors", name: "authors", widget: "string", required: false }
       - {label: "Categories", name: "categories", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "string", required: false}
       - {label: "Slug", name: "slug", widget: "string", default: {{slug}}, required: false }
