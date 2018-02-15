@@ -3,7 +3,7 @@ title: Third Post
 date: 2017-12-19T16:06:22.361Z
 authors: 
 categories: test
-tags: 'Azure, ADFS'
+tags: 'Azure', 'ADFS'
 ---
 This is really exciting !!
 
