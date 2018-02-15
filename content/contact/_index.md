@@ -4,7 +4,7 @@ description: How to contact me?
 menu: main
 weight: -210
 ---
-Please contact us by using the form below, or connect with us on Twitter or LinkedIn
+Please contact us by using the form below, or connect with me on Twitter or LinkedIn
 
 <form name="contact" netlify>
   <p>
@@ -12,6 +12,9 @@ Please contact us by using the form below, or connect with us on Twitter or Link
   </p>
   <p>
     <label>Your Email: <input type="email" name="email"></label>
+  </p>
+  <p>
+    <label>Subject: <input type="text" name="subject"></label>
   </p>
   <p>
     <label>Message: <textarea name="message"></textarea></label>
