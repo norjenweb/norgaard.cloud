@@ -48,7 +48,7 @@ noTermCloudShuffle = false
 
 [params.sidebar]
 enable = true
-sticky = true
+sticky = false
 
 [params.widgets]
 homepage = ["recent_posts"]
