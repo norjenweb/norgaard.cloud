@@ -1,11 +1,11 @@
 baseURL = "https://www.norgaard.cloud"
-title = "Exploring the Cloud with"
+title = "Exploring Azure Cloud"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = "Jens Norgaard"
 
 theme = "minimo"
 
-disqusShortname = ""
+disqusShortname = "norjen"
 googleAnalytics = "UA-4942561-6"
 
 Paginate = 5
@@ -15,6 +15,8 @@ enableRobotsTXT = true # generate robots.txt
 
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences = true
+
+enableEmoji = true
 
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
@@ -40,6 +42,7 @@ suffix = ""
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "2 Jan 2006"
 listDateFormat = "2 Jan 2006"
+archiveDateFormat = "02 Jan"
 hideEntryNavigation = ["pages"] # boolean / array of sections
 recentPostsLength = 4
 hideSocialMenu = false
@@ -82,6 +85,7 @@ platforms = ["github","facebook","twitter","instagram","email","codepen","linked
 [taxonomies]
 author = "authors"
 category = "categories"
+series = "series"
 tag = "tags"
 
 [permalinks]
