@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: Enable MFA without user interaction
 date: '2018-04-16T09:00:40+02:00'
 authors: norjen
 tags: 'IaaS, Azure'
