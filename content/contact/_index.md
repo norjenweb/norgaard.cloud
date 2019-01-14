@@ -7,7 +7,7 @@ weight: -210
 Please contact us by using the form below, or connect with me on Twitter or LinkedIn.
 
 <form name="contact" netlify-honeypot="compute-field" netlify>
-  <p class="hidden"> 
+  <p hidden> 
     <label>Compute field <input type="text" name="compute-field"></label> 
   </p> 
   <p>
